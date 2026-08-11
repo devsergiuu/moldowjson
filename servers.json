@@ -1,8 +1,8 @@
 {
   "servers": [
     {
-      "name": "Moldow",
-      "display_name": "Moldow",
+      "name": "bMoldow",
+      "display_name": "bMoldow",
       "ip": "141.94.184.105",
       "port": "1137",
       "recommended": true,
