@@ -1,0 +1,14 @@
+{
+  "servers": [
+    {
+      "name": "Moldow",
+      "display_name": "Moldow",
+      "ip": "188.127.241.74",
+      "port": "4272",
+      "recommended": true,
+      "online": true,
+      "online_players": 100,
+      "max_players": 100
+    }
+  ]
+}
