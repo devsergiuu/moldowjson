@@ -1,5 +1,6 @@
 {
-  "update": false,
-  "version": "build_11.11.25",
-  "update_url": "https://pride-russia-game.ru/data/launcher_update.apk"
+ "update": true,
+  "version": "build_8.11.26",
+  "update_url": "https://link-direct/launcher.apk",
+  "force": false 
 }
