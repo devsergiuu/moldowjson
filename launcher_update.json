@@ -2,5 +2,5 @@
  "update": true,
   "version": "build_8.11.49",
   "update_url": "https://www.dropbox.com/scl/fi/2zpmw59smgjvve68ohld4/app-debug.apk?rlkey=t1ivaul2eghkbmvg64pdgghbs&st=tkclpslm&dl=1",
-  "force": true 
+  "force": false
 }
