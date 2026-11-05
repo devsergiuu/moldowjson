@@ -1,9 +1,9 @@
 {
   "tracks": [
     {
-      "name": "Hit FM",
+      "name": "Radio Plai",
       "singer": "Radio",
-      "link": "https://stream.dixi.md:9443/HitFM",
+      "link": "http://stream.radioplai.md:8000/live",
       "genre": "Radio"
     },
     {
