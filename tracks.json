@@ -1,6 +1,18 @@
 {
   "tracks": [
     {
+      "name": "Hit FM",
+      "singer": "Radio",
+      "link": "https://stream.dixi.md:9443/HitFM",
+      "genre": "Radio"
+    },
+    {
+      "name": "Big-Baby-Tape Bandana",
+      "singer": "Big-Baby-Tape",
+      "link": "http://whg123496.samp.date/music/2.mp3",
+      "genre": "Big-Baby-Tape"
+    },
+    {
       "name": "Big-Baby-Tape 99 PROBLEMS",
       "singer": "Big-Baby-Tape",
       "link": "http://whg123496.samp.date/music/1.mp3",
